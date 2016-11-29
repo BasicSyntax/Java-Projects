@@ -1,4 +1,4 @@
-public class recursion1 {
+public class Recursion {
 	void myMethod( int counter)
 	{
 		if(counter == 0)

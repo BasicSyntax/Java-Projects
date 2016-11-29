@@ -1,4 +1,4 @@
- public class xortrick {
+ public class Xortrick {
 	 public static void main (String[] args)
 	{
 		
